@@ -23,6 +23,7 @@ int main(){
 	
 	sumClosestZero(n, arr);
 	
+	return 0;
 }
 
 void sumClosestZero(int n, int array[]){
