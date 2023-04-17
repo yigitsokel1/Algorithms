@@ -1,6 +1,7 @@
-#Problems
+# Problems
 
 | **Challenge** | **Difficult** | **Solution** |
+| ------------- | ------------- | ------------ |
 | [Find the largest three elements in an array](https://www.geeksforgeeks.org/find-the-largest-three-elements-in-an-array/) | Easy | [Solution](https://github.com/yigitsokel1/Algorithms/blob/main/Searching%20and%20Sorting%20Algorithms/Searching%20Algorithms/Problems/Find%20Largest%203%20Elements.c) |
 | [Find the Missing Number](https://www.geeksforgeeks.org/find-the-missing-number/) | Easy | [Solution](https://github.com/yigitsokel1/Algorithms/blob/main/Searching%20and%20Sorting%20Algorithms/Searching%20Algorithms/Problems/Find%20Missing%20Number.c) |
 | [Find the first repeating element in an array of integers](https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/) | Easy | [Solution](https://github.com/yigitsokel1/Algorithms/blob/main/Searching%20and%20Sorting%20Algorithms/Searching%20Algorithms/Problems/Find%20First%20Repeating%20Element.c) |
@@ -11,7 +12,7 @@
 | [Find a pair with the given difference](https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/) | Easy | [Solution](https://github.com/yigitsokel1/Algorithms/blob/main/Searching%20and%20Sorting%20Algorithms/Searching%20Algorithms/Problems/Find%20a%20Pair%20with%20the%20Given%20Difference.c) |
 | [k largest(or smallest) elements in an array](https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/) | Easy | [Solution](https://github.com/yigitsokel1/Algorithms/blob/main/Searching%20and%20Sorting%20Algorithms/Searching%20Algorithms/Problems/k%20Largest(or%20smallest)%20Elements%20in%20an%20Array.c) |
 | [Kth smallest element in a row-wise and column-wise sorted 2D array](https://www.geeksforgeeks.org/kth-smallest-element-in-a-row-wise-and-column-wise-sorted-2d-array/) | Easy | [Solution](https://github.com/yigitsokel1/Algorithms/blob/main/Searching%20and%20Sorting%20Algorithms/Searching%20Algorithms/Problems/Kth%20Smallest%20Element%20in%202D%20Array.c) |
-| [Find common elements in three sorted arrays](Find common elements in three sorted arrays) | Easy | [Solution] |
+| [Find common elements in three sorted arrays](https://www.geeksforgeeks.org/find-common-elements-three-sorted-arrays/) | Easy | [Solution] |
 | [Ceiling in a sorted array](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) | Easy | [Solution] |
 | [Floor in a Sorted Array](https://www.geeksforgeeks.org/floor-in-a-sorted-array/) | Easy | [Solution] |
 | [Find the maximum element in an array which is first increasing and then decreasing](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/) | Easy | [Solution] |
@@ -36,6 +37,6 @@
 | [Search in an almost sorted array](https://www.geeksforgeeks.org/search-almost-sorted-array/) | Hard | [Solution] |
 | [Find position of an element in a sorted array of infinite numbers](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/) | Hard | [Solution] |
 | [Given a sorted and rotated array, find if there is a pair with a given sum](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/) | Hard | [Solution] |
-| [K’th Smallest/Largest Element in Unsorted Array | Worst case Linear Time](https://www.geeksforgeeks.org/kth-smallest-largest-element-in-unsorted-array-worst-case-linear-time/) | Hard | [Solution] |
+| [K’th Smallest/Largest Element in Unsorted Array-Worst case Linear Time](https://www.geeksforgeeks.org/kth-smallest-largest-element-in-unsorted-array-worst-case-linear-time/) | Hard | [Solution] |
 | [K’th largest element in a stream](https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/) | Hard | [Solution] |
 | [Best First Search (Informed Search)](https://www.geeksforgeeks.org/best-first-search-informed-search/) | Hard | [Solution] |
